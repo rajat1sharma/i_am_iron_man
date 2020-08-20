@@ -27,7 +27,7 @@ void main() {
             ),
           ),
         ),
-        backgroundColor: Colors.lime[700],
+        backgroundColor: Colors.white,
       ),
     ),
   );
