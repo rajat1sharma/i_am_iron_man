@@ -27,7 +27,7 @@ void main() {
             ),
           ),
         ),
-        backgroundColor: Colors.yellow,
+        backgroundColor: Colors.teal,
       ),
     ),
   );
